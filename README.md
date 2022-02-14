@@ -1,5 +1,5 @@
 # qb-oxyruns
-No-Pixel Oxy runs converted to QB-Core framework.
+No-Pixel Oxy runs converted to QB-Core framework. (latest one)
 
 Add this to you qb-smallresources/client/consumables.lua
 
